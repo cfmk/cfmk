@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning postsgres
 - 📫 How to reach me here :-D
 
-* HI *
+# HI 
 
 
 
